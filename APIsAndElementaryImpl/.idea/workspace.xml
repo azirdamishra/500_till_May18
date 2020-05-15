@@ -2,68 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4572e392-9c5b-41c9-9507-ff50bea56133" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/BinaryHeapMaxPQ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Heapsort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignments/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignments/.idea/libraries/algs4_1_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignments/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignments/src/com/company/Percolation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignments/src/com/company/PercolationStats.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ElementarySorts/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ElementarySorts/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ElementarySorts/.idea/libraries/algs4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ElementarySorts/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ElementarySorts/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ElementarySorts/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ElementarySorts/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ElementarySorts/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ElementarySorts/ElementarySorts.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ElementarySorts/src/com/.idea/com.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ElementarySorts/src/com/company/BottomUpMergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ElementarySorts/src/com/company/ComparaTORinsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ElementarySorts/src/com/company/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ElementarySorts/src/com/company/KnuthShuffle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ElementarySorts/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ElementarySorts/src/com/company/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ElementarySorts/src/com/company/QuickSelect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ElementarySorts/src/com/company/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ElementarySorts/src/com/company/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ElementarySorts/src/com/company/ShellSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ElementarySorts/src/com/company/SimplifiedDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ElementarySorts/src/com/company/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ElementarySorts/src/com/company/threeWayQS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/StacksAndQueues.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/out/production/StacksAndQueues/com/company/ArrayQueueOfStrings.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/out/production/StacksAndQueues/com/company/FixedCapacityStackOfStrings.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/out/production/StacksAndQueues/com/company/LinkedQueueOfStrings.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/out/production/StacksAndQueues/com/company/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/out/production/StacksAndQueues/com/company/ResizingArrayStackOfStrings.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/out/production/StacksAndQueues/com/company/StackOfStrings$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/out/production/StacksAndQueues/com/company/StackOfStrings.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/out/production/StacksAndQueues/com/company/StdIn.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/out/production/StacksAndQueues/com/company/StdOut.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/src/com/company/ArrayQueueOfStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/src/com/company/Bags.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/src/com/company/DijkstraAlgo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/src/com/company/FixedCapacityStackOfStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/src/com/company/GenFixedCapacityStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/src/com/company/GeneralStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/src/com/company/LinkedQueueOfStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/src/com/company/ResizingArrayStackOfStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/src/com/company/StackOfStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/src/com/company/StdIn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/src/com/company/StdOut.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AnalysisOFAlgos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AnalysisOFAlgos/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AnalysisOFAlgos/src/com/company/threeSumFast.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AnalysisOFAlgos/src/com/company/threeSumFast.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Union-Find/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Union-Find/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElementarySorts/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ElementarySorts/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElementarySorts/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ElementarySorts/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -78,39 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="14" selection-start-column="14" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/BinaryHeapMaxPQ.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="45" lean-forward="true" selection-start-line="36" selection-start-column="4" selection-end-line="45" />
-              <folding>
-                <element signature="e#159#160#0" expanded="true" />
-                <element signature="e#216#217#0" expanded="true" />
-                <element signature="e#247#248#0" expanded="true" />
-                <element signature="e#276#277#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Heapsort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-              <folding>
-                <element signature="e#567#568#0" expanded="true" />
-                <element signature="e#614#615#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="261">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
@@ -145,9 +58,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="811" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -181,13 +93,15 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -229,17 +143,19 @@
       <workItem from="1589208794615" duration="2136000" />
       <workItem from="1589280191387" duration="566000" />
       <workItem from="1589299585146" duration="757000" />
+      <workItem from="1589527647287" duration="588000" />
+      <workItem from="1589534904383" duration="283000" />
+      <workItem from="1589535794047" duration="209000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3459000" />
+    <option name="totallyTimeSpent" value="4539000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26752505" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -274,34 +190,12 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/Heapsort.java" />
     <entry file="file://$PROJECT_DIR$/src/com/company/BinaryHeapMaxPQ.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="45" lean-forward="true" selection-start-line="36" selection-start-column="4" selection-end-line="45" />
-          <folding>
-            <element signature="e#159#160#0" expanded="true" />
-            <element signature="e#216#217#0" expanded="true" />
-            <element signature="e#247#248#0" expanded="true" />
-            <element signature="e#276#277#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Heapsort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-          <folding>
-            <element signature="e#567#568#0" expanded="true" />
-            <element signature="e#614#615#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="261">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>

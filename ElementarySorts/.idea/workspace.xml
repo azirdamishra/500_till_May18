@@ -2,67 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bfa1d7d0-b2e4-43f7-aa1d-b43b912f6039" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Assignments/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignments/.idea/libraries/algs4_1_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignments/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignments/src/com/company/Percolation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignments/src/com/company/PercolationStats.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/algs4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ElementarySorts.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/.idea/com.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/BottomUpMergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/ComparaTORinsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/KnuthShuffle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/QuickSelect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/ShellSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/SimplifiedDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/UnorderedMazPQ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/threeWayQS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/StacksAndQueues.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/out/production/StacksAndQueues/com/company/ArrayQueueOfStrings.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/out/production/StacksAndQueues/com/company/FixedCapacityStackOfStrings.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/out/production/StacksAndQueues/com/company/LinkedQueueOfStrings.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/out/production/StacksAndQueues/com/company/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/out/production/StacksAndQueues/com/company/ResizingArrayStackOfStrings.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/out/production/StacksAndQueues/com/company/StackOfStrings$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/out/production/StacksAndQueues/com/company/StackOfStrings.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/out/production/StacksAndQueues/com/company/StdIn.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/out/production/StacksAndQueues/com/company/StdOut.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/src/com/company/ArrayQueueOfStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/src/com/company/Bags.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/src/com/company/DijkstraAlgo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/src/com/company/FixedCapacityStackOfStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/src/com/company/GenFixedCapacityStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/src/com/company/GeneralStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/src/com/company/LinkedQueueOfStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/src/com/company/ResizingArrayStackOfStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/src/com/company/StackOfStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/src/com/company/StdIn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/src/com/company/StdOut.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AnalysisOFAlgos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AnalysisOFAlgos/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AnalysisOFAlgos/src/com/company/threeSumFast.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AnalysisOFAlgos/src/com/company/threeSumFast.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Union-Find/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Union-Find/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APIsAndElementaryImpl/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../APIsAndElementaryImpl/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignments/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignments/.idea/libraries/algs4_1_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignments/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -81,6 +26,15 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="435">
               <caret line="17" column="5" selection-start-line="15" selection-start-column="3" selection-end-line="17" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/BottomUpMergeSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="783">
+              <caret line="27" column="99" selection-start-line="27" selection-start-column="99" selection-end-line="27" selection-end-column="99" />
             </state>
           </provider>
         </entry>
@@ -118,20 +72,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/threeWayQS.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
+            <state relative-caret-position="464">
               <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/company/UnorderedMazPQ.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1218">
-              <caret line="50" column="53" selection-start-line="50" selection-start-column="53" selection-end-line="50" selection-end-column="53" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -165,7 +107,7 @@
     </replaceStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -187,10 +129,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
-    <option name="height" value="811" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -198,8 +139,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -244,6 +183,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -299,11 +240,13 @@
       <workItem from="1588779388750" duration="10425000" />
       <workItem from="1589001676205" duration="3325000" />
       <workItem from="1589201187474" duration="499000" />
+      <workItem from="1589535373043" duration="615000" />
+      <workItem from="1589551169617" duration="111000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21509000" />
+    <option name="totallyTimeSpent" value="22235000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -313,7 +256,7 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.28183118" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.28898427" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.32891566" />
@@ -394,20 +337,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/BottomUpMergeSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="712">
-          <caret line="27" column="99" selection-start-line="27" selection-start-column="99" selection-end-line="27" selection-end-column="99" />
-          <folding>
-            <element signature="e#1108#1109#0" expanded="true" />
-            <element signature="e#1157#1158#0" expanded="true" />
-            <element signature="e#1178#1179#0" expanded="true" />
-            <element signature="e#1219#1220#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/ComparatorInterfaceEG.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/UnorderedMazPQ.java" />
     <entry file="file://$PROJECT_DIR$/src/com/company/InsertionSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
@@ -439,6 +370,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/threeWayQS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/QuickSelect.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="464">
@@ -446,20 +384,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/threeWayQS.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/BottomUpMergeSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/UnorderedMazPQ.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1218">
-          <caret line="50" column="53" selection-start-line="50" selection-start-column="53" selection-end-line="50" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="783">
+          <caret line="27" column="99" selection-start-line="27" selection-start-column="99" selection-end-line="27" selection-end-column="99" />
         </state>
       </provider>
     </entry>
