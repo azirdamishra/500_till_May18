@@ -1,7 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa9c2399-6b2a-4841-95e7-984e176a1a4d" name="Default Changelist" comment="" />
+    <list default="true" id="aa9c2399-6b2a-4841-95e7-984e176a1a4d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Assignments/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignments/.idea/libraries/algs4_1_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignments/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignments/src/com/company/Percolation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ElementarySorts/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ElementarySorts/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ElementarySorts/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ElementarySorts/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ElementarySorts/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ElementarySorts/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ElementarySorts/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ElementarySorts/ElementarySorts.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ElementarySorts/src/com/company/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ElementarySorts/src/com/company/KnuthShuffle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ElementarySorts/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ElementarySorts/src/com/company/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ElementarySorts/src/com/company/ShellSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ElementarySorts/src/com/company/SimplifiedDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/StacksAndQueues.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/out/production/StacksAndQueues/com/company/ArrayQueueOfStrings.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/out/production/StacksAndQueues/com/company/FixedCapacityStackOfStrings.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/out/production/StacksAndQueues/com/company/LinkedQueueOfStrings.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/out/production/StacksAndQueues/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/out/production/StacksAndQueues/com/company/ResizingArrayStackOfStrings.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/out/production/StacksAndQueues/com/company/StackOfStrings$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/out/production/StacksAndQueues/com/company/StackOfStrings.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/out/production/StacksAndQueues/com/company/StdIn.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/out/production/StacksAndQueues/com/company/StdOut.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/src/com/company/ArrayQueueOfStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/src/com/company/Bags.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/src/com/company/DijkstraAlgo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/src/com/company/FixedCapacityStackOfStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/src/com/company/GenFixedCapacityStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/src/com/company/GeneralStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/src/com/company/LinkedQueueOfStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/src/com/company/ResizingArrayStackOfStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/src/com/company/StackOfStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/src/com/company/StdIn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StacksAndQueues/src/com/company/StdOut.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AnalysisOFAlgos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AnalysisOFAlgos/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AnalysisOFAlgos/src/com/company/threeSumFast.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AnalysisOFAlgos/src/com/company/threeSumFast.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,8 +60,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -33,10 +82,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/QuickUnion.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
+            <state relative-caret-position="-47">
               <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
               <folding>
                 <element signature="e#596#597#0" expanded="true" />
@@ -46,10 +95,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/weightedQU.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
+            <state relative-caret-position="319">
               <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
             </state>
           </provider>
@@ -64,6 +113,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -74,11 +126,12 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="816" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -111,6 +164,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -152,16 +206,17 @@
       <workItem from="1575875864002" duration="16000" />
       <workItem from="1575876140389" duration="3054000" />
       <workItem from="1575893581062" duration="159000" />
+      <workItem from="1588768262776" duration="57000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3229000" />
+    <option name="totallyTimeSpent" value="3286000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="811" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -197,10 +252,18 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/QuickFind.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/threeSum.java" />
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="58">
           <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/weightedQU.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -213,26 +276,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/QuickUnion.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
+        <state relative-caret-position="-47">
           <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
           <folding>
             <element signature="e#596#597#0" expanded="true" />
             <element signature="e#637#638#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/threeSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/weightedQU.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
         </state>
       </provider>
     </entry>
