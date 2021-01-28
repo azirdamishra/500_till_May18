@@ -38,6 +38,6 @@ public class PermInString {
        return counter == lengthOfWindow;
     }
     public static void main(String[] args){
-        System.out.println(checkInclusion("ab", "eidboaoo"));
+        System.out.println(checkInclusion("dc", "oidbcaf"));
     }
 }
