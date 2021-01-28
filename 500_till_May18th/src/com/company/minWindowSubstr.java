@@ -3,6 +3,7 @@ package com.company;
 import java.util.HashMap;
 import java.util.Map;
 // I DON'T GET THE FUCKIN CODE
+//Now I do nvm
 //I am going to try to draw parallels here from my code
 public class minWindowSubstr {
     //my method sucked which was smallestWindowWithSubstr
