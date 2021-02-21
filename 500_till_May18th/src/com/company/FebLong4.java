@@ -30,9 +30,7 @@ public class FebLong4 {
 
             //assuming that the smallest wt frog is in the right place i.e its position is correct
             for (int i = 1; i < size; i++) {
-                //int findNo = sortedWt[i];
                 //need to find sortedWt[i] in wtArr
-                //int index = IntStream.range(0, size-1).filter(j -> findNo == wtArr[j] ).findFirst().orElse(0);
                 int index = getIndex(sortedWt[i], wtArr);
 
                 //int findNoPrev = sortedWt[i-1];
