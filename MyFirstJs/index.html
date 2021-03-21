@@ -1,0 +1,31 @@
+<!-- content and page structure -->
+<!-- styling CSS inside HTML can be done but not reco and is called internal CSS. Else called external CSS -->
+<!-- the Elements tab in developer tools shows you the Document Object Model (DOM) as rendered in the browser (imp for debugging)-->
+<!DOCTYPE html> <!-- this shows that it is HTML5 code-->
+<html lang="en">
+<head>
+    <meta charset="UTF-8"> <!-- metadata or info that won't be visible to the viewer unless they see source code in browser. PRovide descriptive info and help search engines display results-->
+    <title>Simple Website</title>
+    <link rel="stylesheet" href="main.css">
+</head>
+<body class="light-theme"> <!-- can be edited for light or dark-->
+<h1>Task List</h1>
+<p id="msg">Current tasks:</p>
+<ul>
+    <li class="list">Add visual styles</li>
+    <li class="list">Add light and dark themes</li>
+    <li>Enable switching the theme</li>
+    <!-- custom style of css class overrides that of html body -->
+</ul>
+<!-- adding a button -->
+<div>
+    <button class="btn">Dark</button>
+</div>
+<script src="app.js"></script>
+<!-- this script elem can be placed in the head or elsewhere in the body but putting at the end of body makes allthe
+page content display on the screen first and then load script which is not fun.
+no script is added for fault tolerance if js is not enabled-->
+<noscript>You need to enable js to view the full site.</noscript>
+
+</body>
+</html>

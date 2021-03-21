@@ -1,0 +1,102 @@
+/*
+presentation and styling
+External CSS has benefits -- multiple HTML can link to the same CSS file and making any changes to CSS will update for each page
+HTML for structure, CSS for styling and JS for interaction -- separation of concerns
+ */
+:root {
+    --green: #00FF00;
+    --white: #ffffff;
+    --black: #000000;
+}
+/*
+this :root selector represents the <html> element in html page
+for this task, define a set of global CSS variables in the :root element and they will be for the page root
+
+body{
+    font-family: monospace;
+}
+body replaced below
+* is a universal selector that applies universally to all page element except where a specific element selector overrides it
+we use it to set default color property for all page elements
+color and font family are specified in light and dark themes
+ */
+* {
+    color: var(--fontColor);
+    font-family: helvetica, serif;
+}
+
+body {
+    background: var(--bg);
+}
+ul{ /* this is a selector which selects <ul> of html to apply styles */
+    font-family: hlvetica, serif;
+}
+/*
+ID and class selectors enable you to apply styles to custom attribute names in your html.
+An ID is used to style one element whereas classes can style multiple elements
+ */
+li {
+    list-style: circle;
+}
+
+.list {
+    list-style: square;
+}
+/*
+the first one is used to add a selector for the button that enables us to override the
+one for the general page (*)
+second is adding rules for the shape and size of the button
+the third is added to improve the button's focus and to increase its appearance (removes
+outlines from the button)
+ */
+.btn {
+    position: absolute;
+    top: 20px;
+    left: 250px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border: none;
+    color: var(--btnFontColor);
+    background-color: var(--btnBg);
+}
+.btn {
+    color: var(--btnFontColor);
+    background-color: var(--btnBg);
+}
+.btn:focus { outline-style: none; }
+
+/*
+#msg {
+    font-family: monospace;
+}
+this needs to be removed to have the same fond (* class) to all elements  in the page
+
+to preview the changes still select html only
+ */
+/*
+Adding support for a light color theme for your website -- use hex color codes
+Update html
+
+.light-theme {
+    color: #000000;
+    background: #00FF00;
+}
+light theme updated below
+var keyword below is used to specify variables to use as property values set prev in root selector
+*/
+.light-theme {
+    --bg: var(--green);
+    --fontColor: var(--black);
+    --btnBg: var(--black);
+    --btnFontColor: var(--white);
+}
+
+.dark-theme {
+    --bg: var(--black);
+    --fontColor: var(--green);
+    --btnBg: var(--white);
+    --btnFontColor: var(--black);
+}
+
+
